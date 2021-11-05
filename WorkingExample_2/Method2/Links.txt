@@ -1,0 +1,6 @@
+Tutorial:
+https://stavshamir.github.io/python/making-your-c-library-callable-from-python-by-wrapping-it-with-cython/
+https://github.com/stavshamir/cython-c-wrapper
+
+Issue resolved using:
+https://stackoverflow.com/questions/29168575/wrap-c-class-with-cython-getting-the-basic-example-to-work

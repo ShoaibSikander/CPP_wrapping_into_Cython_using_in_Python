@@ -1,0 +1,3 @@
+cd /mnt/c/Users/MSikander/AI/LS_Projects/Learning_Cython/WorkingExample_3/Method2/
+
+source /mnt/c/Users/MSikander/AI/LS_VirtualEnvs/Learning_Cython/bin/activate

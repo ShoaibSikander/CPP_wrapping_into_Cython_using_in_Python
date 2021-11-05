@@ -1,0 +1,6 @@
+Tutorial:
+http://docs.cython.org/en/latest/src/userguide/wrapping_CPlusPlus.html
+
+Issue resolved using:
+https://stackoverflow.com/questions/29168575/wrap-c-class-with-cython-getting-the-basic-example-to-work
+https://stackoverflow.com/questions/30821356/multiple-definition-first-defined-here-errors

@@ -1,0 +1,6 @@
+Tutorial:
+http://ovainola.github.io/jekyll/update/2016/08/07/Wrapping-C++.html
+
+Issue resolved using:
+https://stackoverflow.com/questions/29168575/wrap-c-class-with-cython-getting-the-basic-example-to-work
+https://stackoverflow.com/questions/48766390/typeerror-expected-bytes-str-found-in-custom-python-function
